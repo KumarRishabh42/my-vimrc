@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/hellboy2k8/Documents/rally/rally'
+let g:netrw_dirhist_2='/var/lib/cloud/scripts/per-instance'
+let g:netrw_dirhist_3='/home/hellboy2k8/Documents/vim/dotfiles/_vim'
+let g:netrw_dirhist_4='/home/hellboy2k8/Documents/vim'
